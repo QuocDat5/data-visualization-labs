@@ -1,0 +1,10 @@
+# Các thư viện được dùng
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import statistics
+import plotly.express as px
+from sklearn.datasets import load_iris
+import seaborn as sns
+import matplotlib.gridspec as gs
